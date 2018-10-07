@@ -1,11 +1,11 @@
 # Site settings
 author: Peter Stone
-title: 
+title: Some Software with Stone
 header-img: img/home-bg.png
 email: peter.stone.online@gmail.com
 copyright_name: Peter Stone
 description: > # this means to ignore newlines until "baseurl:"
-  
+  musings and explorations
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Peter-G-Stone

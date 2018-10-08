@@ -29,7 +29,7 @@ So! The music-obsessed pieces of my self will have to learn to share while I gea
 ![](https://i.imgur.com/PaIf0Cv.jpg)
 > Listen, you don't have to do this. I still love you. I promise I'll still play you everyday. Just put the computer down and hand me the glass of water. That's it. That's a nice guitar.
 
-I *very* much am enjoying my plunge so far. I'm drawn to coding for so many reasons. I've always been emotionally invested in technological developments, gadgets, sci-fi, futurism. That stuff gets me going. I get excited when I remember how wonderful it is that I carry the library of the world in my pocket, that I can listen to millions of musicians, look at stunning art, ANY TIME. That I can find remote, obscure, amazing locations because some stranger was kind enough to publish instructions directing me there, and my little knowledge-device will even give me driving directions in it's slightly creepy robot voice. And soon the robot chaffeur/car might drive me there itself!?
+I *very* much am enjoying my plunge so far. I'm drawn to coding for so many reasons. I've always been emotionally invested in technological developments, gadgets, sci-fi, futurism. That stuff gets me going. I get excited when I remember how wonderful it is that I carry the library of the world in my pocket, that I can listen to millions of musicians, look at stunning art, ANY TIME. That I can find remote, obscure, amazing locations because some stranger was kind enough to publish instructions directing me there, and my little knowledge-device will even give me driving directions in its slightly creepy robot voice. And soon the robot/chaffeur/car might drive me there itself!?
 
 ![](https://i.imgur.com/h47h2Li.jpg)
 > Holy cow, man.

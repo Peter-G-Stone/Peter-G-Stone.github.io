@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mushroom Identification CLI"
-date:       2018-10-19 21:53:45 +0000
+date:       2018-10-19 17:53:46 -0400
 permalink:  mushroom_identification_cli
 ---
 
@@ -24,7 +24,7 @@ Here's a demo!
 Here's a nice pic of some mushrooms:
 
 ![Assorted Mushrooms](https://i.imgur.com/Lx3V35q.jpghttp://)
-> Inspiring. Beautiful photo by: http://www.aridleyphotography.com
+> Inspiring. Beautiful photo by: [Andrew Ridley](http://www.aridleyphotography.com)
 
 .
 

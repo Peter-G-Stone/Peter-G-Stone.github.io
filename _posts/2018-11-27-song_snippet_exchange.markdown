@@ -6,7 +6,7 @@ permalink:  song_snippet_exchange
 ---
 
 
-
+## Encouraging collaboration and connection among songwriters.
 
 I set out to solve a problem I've seen with songwriters. At times, it is possible to create many, many song ideas, and one is filled with inspiration. However, more often than not there is not enough time to fully develop and explore all the song ideas that a songwriter jots down or sings into their voice memo app. These song snippets are often lost as the artist moves onto new and exciting ideas, or as they get honed in on whichever composition they choose to dive into.
 

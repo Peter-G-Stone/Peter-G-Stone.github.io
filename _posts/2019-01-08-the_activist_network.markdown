@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Activist Network"
-date:       2019-01-08 14:22:43 +0000
+date:       2019-01-08 09:22:44 -0500
 permalink:  the_activist_network
 ---
 
@@ -34,5 +34,5 @@ Here - check out a [video demo](https://youtu.be/foD1uqvci2w)!
 
 Thanks for reading!
 
-- Peter Stone
-
+#### -  Peter Stone
+Jan 8, 2019

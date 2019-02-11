@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adding Javascript to my Rails Project: Activist Network "
-date:       2019-02-11 01:54:21 +0000
+date:       2019-02-10 20:54:22 -0500
 permalink:  adding_javascript_to_my_rails_project_activist_network
 ---
 
@@ -50,7 +50,7 @@ The other issue I will discuss involved assigning event listeners to dynamically
 
 I dynamically render my each group’s post index on its show page. I wanted to add Delete buttons to all of the current user’s posts. Each delete button has an event listener so that if clicked, my javascript asynchronously handles the delete action rather than having a page refresh.
 
-Originally I attempted to add these event listeners in a separate function from where the posts’ html was being created and they were being rendered on the page.
+Originally I attempted to add these event listeners in a separate function from where the posts’ html was being created and rendered on the page.
 
 I was consistently failing to select the elements using jquery and their id’s - even though I could tell using my browser that the id’s were being set correctly.
 

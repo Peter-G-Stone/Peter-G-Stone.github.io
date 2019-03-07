@@ -14,7 +14,7 @@ This project sets out to implement a type of content and UI with which many of u
 
 ![screenshot of picList app](https://i.imgur.com/UksQXYa.png)
 
-#### Accounts
+### Accounts
 
 Account creation neatly handles email validity and uniqueness, as well as username uniqueness. Logins are handled securely using JSON Web Tokens to pass authentication between the front and back ends. The gems knock and bcrypt are incorporated to manage these features. 
 
@@ -37,13 +37,13 @@ The fix was to add this additional line of code in the block found within that i
 
 That was fun trying to debug. Since it was my first time using knock I thought it was something I had done wrong in the setup. Thanks to my teacher Enoch for the assist on that one.
 
-#### Features
+### Features
 
 
 Once you've got your account setup and logged in, you gain access to 'save' and 'unsave' images to your collection. This allows you to keep track of artists and works of art that you come across, revisit them later, etc. This is implemented with an instantly responsive single page web app on the front end, and all data manipulation and persistence being handled with fetch requests to the rails api back end. 
 
 
-#### Notes from working on this project
+### Notes from working on this project
 
 One thing that tripped me up again was correct naming conventions for rails join tables. I use a join table to map the many-to-many relationship between pictures and users who have saved those pictures. I'd like to point to this (WARNING) vulgar but extremely helpful and simple article explaining them:
 

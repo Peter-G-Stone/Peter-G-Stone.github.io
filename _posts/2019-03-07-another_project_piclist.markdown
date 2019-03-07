@@ -8,7 +8,7 @@ permalink:  another_project_piclist
 
 ## React on the frontend and rails API on the backend.
 
-Welcome, welcome, welcome. Today I'll write about another project that has been in the works. I call this one PicList. 
+Welcome, welcome, welcome. Today I'll write about another project that has been in the works. I call this one PicList. It uses some popular technologies: React, Redux, Rails.
 
 This project sets out to implement a type of content and UI with which many of us will now be familiar. An app where you seamlessly scroll through a series of images. The images are available to view if you simply visit the page, and you can click the artists' names to see all the images by that specific artist. More features become available when you create an account or login.
 

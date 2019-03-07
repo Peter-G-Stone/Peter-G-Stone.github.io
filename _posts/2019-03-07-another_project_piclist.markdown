@@ -6,7 +6,7 @@ permalink:  another_project_piclist
 ---
 
 
-## React on the frontend and rails API on the backend.
+## React with redux on the frontend and rails API on the backend.
 
 Welcome, welcome, welcome. Today I'll write about another project that has been in the works. I call this one PicList. It uses some popular technologies: React, Redux, Rails.
 

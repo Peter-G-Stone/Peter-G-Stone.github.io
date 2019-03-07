@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Another Project: PicList!"
-date:       2019-03-07 17:44:41 +0000
+date:       2019-03-07 12:44:42 -0500
 permalink:  another_project_piclist
 ---
 
